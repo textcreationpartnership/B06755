@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the Honourable William Ward Esq; son and heir apparent of the Right Honourable Edward Lord Ward, John Levett, Gent., and Mary his wife: humbly offered to the consideration of the Right Honourable the Lords spiritual and temporal in Parliament assembled.</title>
+            <author>Ward, William, Esq., fl. 1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06755</idno>
+            <idno type="STC">Wing W838C</idno>
+            <idno type="STC">ESTC R186259</idno>
+            <idno type="EEBO-CITATION">52529079</idno>
+            <idno type="OCLC">ocm 52529079</idno>
+            <idno type="VID">179226</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06755)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179226)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2780:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the Honourable William Ward Esq; son and heir apparent of the Right Honourable Edward Lord Ward, John Levett, Gent., and Mary his wife: humbly offered to the consideration of the Right Honourable the Lords spiritual and temporal in Parliament assembled.</title>
+                  <author>Ward, William, Esq., fl. 1679.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>An appeal to the House of Lords about the case regarding the inheritance of Sir Thomas Brereton disputed between William Ward, John Levett &amp;c. on the one hand and John Brereton and Nathaniel Booth on the other hand.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ward, William, --  Esq., fl. 1679 --  Trials, litigation, etc.</term>
+               <term>Levett, John, --  Gent., fl. 1679 --  Trials, litigation, etc.</term>
+               <term>Booth, Nathaniel, fl. 1679 --  Trials, litigation, etc.</term>
+               <term>Brereton, John, fl. 1679 --  Trials, litigation, etc.</term>
+               <term>Inheritance and succession --  England --  Cases --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:179226:1"/>
+            <pb n="1" facs="tcp:179226:1" rendition="simple:additions"/>
+            <head>The CASE of the Honourable <hi>William Ward</hi> 
+               <abbr>Eſq</abbr> Son and Heir Apparent of the Right Honourable <hi>Edward</hi> Lord <hi>Ward, John Levett,</hi> Gent. and <hi>Mary</hi> his Wife: <hi>Humbly Offered to the Conſideration of the Right Honourable the Lords Spiritual and Temporal in Parliament Aſſembled.</hi>
+            </head>
+            <p>SIR <hi>Thomas Brereton</hi> Baronet (a man weak of underſtanding) being ſeized in Fee of, and in ſeveral Mannors and Lands in the County of <hi>Cheſter,</hi> was, when ſurprized with drink, in <hi>May</hi> 1666, prevailed upon by <hi>John Warren,</hi> 
+               <abbr>Eſq</abbr> a Barreſter at Law, to execute a Deed of Settle<g ref="char:EOLhyphen"/>ment, which he had for that purpoſe drawn, and wherein he named him<g ref="char:EOLhyphen"/>ſelf, and his Father (amongſt others) Truſtees, whereby the Eſtate of the ſaid Sir <hi>Thomas</hi> was ſetled to the uſe of himſelf for life, remainder (as to a great part thereof) to <hi>Theodoſia</hi> his Wife, for her life, remainder as to the whole, to the Iſſue of his body, remainder (for want of ſuch Iſſue) to <hi>Nathaniel Booth,</hi> and the Heirs of his body, remainder to the right Heirs of the ſaid Sir <hi>Thomas</hi> for ever, with power of Revocation at any time, during his natural life, by paying of 12 <abbr>
+                  <hi>d.</hi>
+               </abbr> to the ſaid Truſtees, or any of them, or to any other perſon or perſons, for their uſe, with intent, purpoſe, and declaration to revoke the ſame, or the Uſes, Limitations, or Eſtates thereby limited, created, or appointed, or any of them; and ſhould alſo by his Act or Deed in writing, under his Hand and Seal, executed in the preſence of two or more credible Witneſſes, revoke the ſame, then the ſame to be void.</p>
+            <p>Sir <hi>Thomas</hi> ſometime after the execution of this Deed, taking conſideration thereof, and what he had done thereby, reſolving that Settlement ſhould not ſtand, but to revoke the ſame, took the Deed (which then he had in his own cuſtody), tore of his Hand and Seal from off the ſame, declared it void, and flung it into the Fire, with deſire to burn and deſtroy it; but <hi>Warren</hi> being pre<g ref="char:EOLhyphen"/>ſent, ſnatcht the ſame out of the Fire, carried it away with him, and kept it till after the Death of Sir <hi>Thomas,</hi> ſoon after whoſe deceaſe the ſaid <hi>Warren</hi> combi<g ref="char:EOLhyphen"/>ning with the ſaid <hi>Nathaniel Booth,</hi> to defeat the Apellants (who are the ſaid Sir <hi>Thomas</hi> his Siſters, Children, and his Heirs at Law) of the ſaid eſtate, ſets up the aforeſaid Deed, and pretends the ſame was not revoked according to the ſtrict Letter of the <hi>Proviſo</hi> therein for the purpoſe contained. Howbeit, <hi>Warren</hi> well knows, that Sir <hi>Thomas</hi> in his life-time, to wit, on the 10th of <hi>Feb.</hi> 1670, con<g ref="char:EOLhyphen"/>ceiving and apprehending the Settlement aforeſaid to be void, did execute one other Conveyance, drawn by him the ſaid <hi>Warren,</hi> whereby part of the Lands ſetled on his Lady for her Joynture, were the ſame which were ſetled on her by the aforeſaid Cancelled Deed, and ſold other part of the Lands, ſo ſetled as aforeſaid, unto him the ſaid <hi>Warren,</hi> and others; and ever after his cancelling the ſaid Deed, did upon all occaſions, whileſt he lived, declare the Settlement thereby made to
+<pb n="2" facs="tcp:179226:2"/>be void to all intents and purpoſes, that his Eſtate after his deceaſe, ſhould go to his right Heirs, and to no other perſon whatſoever; ſent ſeveral times to the ſaid <hi>Warren,</hi> to deſire him to ſend him the ſaid Cancelled Deed, to the intent he might by peruſing thereof, know whether any other Act (by the <hi>Proviſo</hi> therein con<g ref="char:EOLhyphen"/>tained) were requiſite by him to be done, for the more effectual making void of the ſame; and often times the year before his Death, demanded it himſelf of the ſaid <hi>Warren</hi> before Witneſſes; asking the reaſon why he delivered it not after ſo many times ſending for? That ſo he might revoke the ſame in ſuch manner, as by the <hi>Proviſo</hi> therein contained was required, in caſe the Cancelling thereof, as aforeſaid, were not ſufficient for that purpoſe. To whom <hi>Warren</hi> replyed, by asking Sir <hi>Thomas,</hi> why he troubled himſelf for the Deed, when he knew he had deſtroyed it, by tearing of his Hand and Seal, aſſuring him, That it was a void Deed, and promiſed to deliver the ſame when he could find it? With which An<g ref="char:EOLhyphen"/>ſwer Sir <hi>Thomas</hi> reſted ſatisfied, believing what he ſaid to be true: which he the rather gave credit unto,</p>
+            <p>Becauſe the ſaid <hi>Nathaniel Booth</hi> was ſo well ſatisfied, that the ſaid Settlement was void, that he himſelf ſeveral times after the Cancelling thereof, and not long before his Death, ſolicited him to Seal new Deeds, for ſetling the ſame Lands to the ſame uſes mentioned in the ſaid cancelled Conveyance, offered him money ſo to do. Which Sir <hi>Thomas</hi> refuſed to execute, adding, that the ſaid <hi>Booth</hi> ſhould never be a, farthing the better for his Eſtate; avoided as much as he could his company for above a year before his Death, would never truſt himſelf with him alone, becauſe he once before attempted to do him ſome miſchief, for refu<g ref="char:EOLhyphen"/>ſing to execute ſome Deeds which he had prepared ready for his ſealing.</p>
+            <p>Mr. <hi>Booth</hi> finding himſelf thus diſappointed, that he could no way prevail with Sir <hi>Thomas</hi> to make any new Settlement for his advantage, did in <hi>April</hi> 1673, procure a Letter from the Kings moſt Excellent Majeſty, to the ſaid Sir <hi>Thomas,</hi> wherein the King deſired him to ſettle a part of his ſaid eſtate on the ſaid <hi>Booth;</hi> which Letter being brought to him by a Noble Lord, Sir <hi>Thomas</hi> after a due conſideration thereof, returned his Anſwer in writing to his Lordſhip; wherein he writ, that he hoped His Majeſty would not impoſe any ſuch thing upon him, or enforce him to give his eſtate away contrary to his own inclina<g ref="char:EOLhyphen"/>tions; adding, that he had nearer Relations than the ſaid Mr. <hi>Booth</hi> to take care of.</p>
+            <p>About four Months after, to wit, in or about the Month of <hi>Auguſt,</hi> 1673, Sir <hi>Thomas</hi> being ſick, Mr. <hi>Booth</hi> came to viſit him, and demanded to know his poſitive reſolution, whether he would ſettle any part of his eſtate upon him, or not? To which Sir <hi>Thomas</hi> reply'd, that he had long before given Anſwer to that matter, and would give no other, ſave only, that neither he nor his ſhould be one farthing the better for his eſtate: and immediately after the ſaid Mr. <hi>Booth</hi> was gone, Sir <hi>Thomas</hi> cauſed a <hi>Memorandum</hi> of ſuch his An<g ref="char:EOLhyphen"/>ſwer to be entred into his <hi>Almanack;</hi> as alſo, that the Cancell'd Deed in <hi>VVarrens</hi> hands was void, that he had often ſent for it, but could not get it; and made two perſons then preſent, ſubſcribe their Hands as Witneſſes to the ſaid <hi>Memo<g ref="char:EOLhyphen"/>randum.</hi>
+            </p>
+            <p>Sir <hi>Thomas</hi> reſolving not to truſt himſelf near the ſaid <hi>VVarren</hi> any longer, left <hi>Cheſhire,</hi> went to a Lawyer in <hi>VVorceſterſhire</hi> (to whom he was a ſtranger), gave him inſtructions to draw a Settlement for him of all his eſtate then unſold, named the Lands, the Truſtees, and to what Uſes, and directed the making his Will, nominated his Lady to be his Executrix. And in all theſe inſtructions
+<pb n="3" facs="tcp:179226:2"/>Mr. <hi>Booth</hi> not ſo much as mentioned; but Sir <hi>Thomas</hi> falling ill, had a mind to return to his own Houſe in <hi>Cheſhire,</hi> and did not execute the ſame. But the draft of his Will was brought to him, and he approved thereof, and declared that he would come and perfect the ſame with the Settlement at the Lawyers houſe, but dyed before the doing thereof.</p>
+            <p>Sir <hi>Thomas</hi> afterwards on his Death-bed declared, that all his eſtate ſhould go to his Heirs at Law, and to no body elſe; and that the aforeſaid <hi>VVarren</hi> had got the Cancelled Deed aforeſaid into his hand, which he executed when he was in drink; that he had long ſince tore off his Hand and Seal from the ſame, and that it was void, and he had oftentimes ſent for it, but could never get it; but if ever he liv'd to go into <hi>Cheſhire,</hi> he would run his Sword into the Rogue <hi>VVarrens</hi> guts if he did not deliver it: and this not above ſeven days before his Death, which hapned in <hi>January</hi> 1673, at the Lady <hi>Dudlyes</hi> Houſe in <hi>Staffordſhire.</hi>
+            </p>
+            <p>Sir <hi>Thomas</hi> likewiſe declared at his departure from his Houſe, that it was a great trouble to him, that he muſt be forc'd to go dye out of his own Houſe to ſave his eſtate; for that <hi>VVarren</hi> had been with him, and brought ſome Bottles of Sack, and told him, that he and Mr. <hi>Booth</hi> would come the next day and viſit him, and drink them out; no ſooner was he gone, but Sir <hi>Thomas</hi> told his Ser<g ref="char:EOLhyphen"/>vant that the ſaid <hi>VVarren</hi> and <hi>Booth</hi> deſigned him a viſit the next day, and to make him drunk, and get ſome Settlement of his eſtate from him; but he would prevent them by going to the Lady <hi>Dudlyes</hi> before they came; which according<g ref="char:EOLhyphen"/>ly (though very ill) he did do; with which when they came, they were great<g ref="char:EOLhyphen"/>ly ſurprized, and very angry thereat.</p>
+            <p>And the ſaid <hi>VVarren</hi> at the Funeral of Sir <hi>Thomas,</hi> confeſſed he had pre<g ref="char:EOLhyphen"/>ſerved the Deed of Settlement of his eſtate for the ſaid Mr. <hi>Booth,</hi> which Deed he declared Sir <hi>Thomas</hi> had ſealed, but afterwards Cancelled, and thought there<g ref="char:EOLhyphen"/>by he had made the ſame void, but was miſtaken; adding, that Sir <hi>Thomas</hi> had often endeavoured to get it from him; but he kept it, and put him off with excuſes, making him believe it was void, and that he had loſt it, which Sir <hi>Thomas</hi> believed; but now he would ſet it on foot for Mr. <hi>Booth.</hi>
+            </p>
+            <p>Some years after the Death of Sir <hi>Thomas,</hi> the Lady <hi>Theodoſia</hi> his Relict, gave the Appellants notice of the pretended Deed aforeſaid, and that the Reſpon<g ref="char:EOLhyphen"/>dent <hi>Booth</hi> intended to make Claim thereby, but declared that ſhe knew the ſame was ſurreptitiouſly gotten from Sir <hi>Thomas,</hi> and that he thought by Cancel<g ref="char:EOLhyphen"/>ling thereof he had made it void; and although ſhe had a greater eſtate there<g ref="char:EOLhyphen"/>by, than by her laſt Deed, yet ſhe would not claim any thing under the ſame for the Reaſons aforeſaid.</p>
+            <p>The Appellants heteupon as Heirs at Law to Sir <hi>Thomas,</hi> exhibited their Bill in Equity againſt the ſaid <hi>Nathaniel Booth,</hi> and one <hi>John Brereton,</hi> to diſcover the ſaid Deed, and the Contents thereof, and to have the ſame delivered up, or otherwiſe deſtroyed.</p>
+            <p>To which Bill the ſaid <hi>Nathaniel Booth</hi> put in his Anſwer, ſet forth the ſaid Deed; and that Sir <hi>Thomas</hi> had executed the ſame, but afterwards had torn off his Hand and Seal, but had not thereby made the ſame void, he not having exactly purſued the power of Revocation to him therein reſerved; Therefore claimed an eſtate Tail in the Lands in queſtion, after the Death of the ſaid Dame <hi>Theodoſia.</hi>
+            </p>
+            <p>But the Defendant <hi>Brereton</hi> by Anſwer, ſets forth, that there was ſuch a Set<g ref="char:EOLhyphen"/>tlement, as aforeſaid made by Sir <hi>Thomas,</hi> who afterwards cancelled the ſame, and declared it void, and always thought it to be ſo; and therefore he diſ<g ref="char:EOLhyphen"/>claimed
+<pb n="4" facs="tcp:179226:3"/>any Intereſt or pretence to the Annuity given (and ſetled upon) him for his life by the ſaid Deed; and that the Plaintiffs as Heirs at Law ought to enjoy the ſame.</p>
+            <p>Their Anſwers being put in, Iſſue was joyned, Witneſſes examined, Publica<g ref="char:EOLhyphen"/>tion paſt, and the Cauſe coming to Hearing the 18th day of <hi>February,</hi> 1678, before the Right Honourable the Lord High Chancellor of <hi>England,</hi> his Lord<g ref="char:EOLhyphen"/>ſhip notwithſtanding all the matters aforeſaid, and many others of the like nature were fully proved, yet contrary to all Equity, diſmiſſed the Appellants Bill; when as in Juſtice he ought to have Decreed the aforeſaid Settlement void, and to have granted a perpetual Injunction againſt the Reſpondent <hi>Booth</hi> his Proceedings thereupon. By which Diſmiſſion, the Appellants being agrieved, they humbly Appeal from the ſame, to this moſt Honourable Houſe, the Su<g ref="char:EOLhyphen"/>preme Fountain of Juſtice within this Kingdom, Praying to be heard, to the intent they may receive Relief agreeable to the Juſtice and Equity of their Cauſe.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
